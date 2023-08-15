@@ -1,5 +1,5 @@
 
-# Readme Generated
+# ReadMe Maker
 
 * [Description](#description)
 * [Installation](#installation)
@@ -10,13 +10,13 @@
 * [Questions](#questions)
 
 ## Description
-It creates a Readme
+Readme 
 
 ## Installation
 npm i
 
 ## Usage
-usage to generate a Readme
+use to generate a Readme
 
 ## License
 None

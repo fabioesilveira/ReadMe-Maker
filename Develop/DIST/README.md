@@ -1,5 +1,5 @@
 
-# ReadMe Maker
+# ReadMe-Maker
 
 * [Description](#description)
 * [Installation](#installation)
@@ -10,13 +10,13 @@
 * [Questions](#questions)
 
 ## Description
-Readme 
+A README file is an important component of any project repository. It serves as a guide for users, collaborators, and maintainers to understand and navigate the project. Generate your Readme,  to provide a clear and concise overview of your project, including its purpose, features, and any relevant instructions for installation and usage.
 
 ## Installation
 npm i
 
 ## Usage
-use to generate a Readme
+Open index.js in Integrated Terminal, type node index. Enter a Title, description, installations necessaries, usage. Choose your license type. Enter project contributions and test. Readme file generated at DIST Folder.
 
 ## License
 None

@@ -27,8 +27,8 @@ Fabio Silveira
 n/a
 
 ## Questions
-https://github.com/fabioesilveira
-fabio.eds@hotmail.com
+GitHub account: https://github.com/fabioesilveira 
+E-mail: fabio.eds@hotmail.com
 
 ## Reference
 
